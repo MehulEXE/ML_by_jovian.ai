@@ -7,7 +7,7 @@ the youtube video for all session can be found here : [full_video](https://www.y
 
 in this we go through differnt topic about machine learning like:-
 
->*Lesson 1* - Linear Regression and Gradient Descent\
+>**Lesson 1** - Linear Regression and Gradient Descent\
 >*Lesson 2* - Logistic Regression for Classification\
 >Lesson 3 - Decision Trees and Random Forests\
 >Lesson 4 - How to Approach Machine Learning Projects\
