@@ -7,11 +7,11 @@ the youtube video for all session can be found here : [full_video](https://www.y
 
 in this we go through differnt topic about machine learning like:-
 
->>Lesson 1 - Linear Regression and Gradient Descent
->>Lesson 2 - Logistic Regression for Classification
->>Lesson 3 - Decision Trees and Random Forests
->>Lesson 4 - How to Approach Machine Learning Projects
->>Lesson 5 - Gradient Boosting Machines with XGBoost
->>Lesson 6 - Unsupervised Learning using Scikit-Learn
->>Lesson 7 - Machine Learning Project from Scratch
->>Lesson 8 - Deploying a Machine Learning Project with Flask
+>>Lesson 1 - Linear Regression and Gradient Descent\
+>>Lesson 2 - Logistic Regression for Classification\
+>>Lesson 3 - Decision Trees and Random Forests\
+>>Lesson 4 - How to Approach Machine Learning Projects\
+>>Lesson 5 - Gradient Boosting Machines with XGBoost\
+>>Lesson 6 - Unsupervised Learning using Scikit-Learn\
+>>Lesson 7 - Machine Learning Project from Scratch\
+>>Lesson 8 - Deploying a Machine Learning Project with Flask\
